@@ -1,4 +1,4 @@
-# firebase_chat
+# Flutter Firebase Chat
 
 A new Flutter application.
 
